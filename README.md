@@ -155,4 +155,3 @@ output/artifacts/<sample_id>_overlay.jpg
 
 - Zoom level used: 20
 - Image resolution: 640×640 with scale=2 (effective 1280×1280)
-- If visual evidence is insufficient (e.g., heavy shadow, tree occlusion), the site is marked as `NOT_VERIFIABLE`
