@@ -12,7 +12,7 @@ This pipeline **must be run on a GPU**. CPU execution is extremely slow and not 
 
 ## 1. Requirements
 
-- Python **3.10**
+- Python **3.12.12**
 - Google Maps **Static Maps API key**
 - NVIDIA GPU with **CUDA support** (e.g., T4 / RTX / A100 class)
 
